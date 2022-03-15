@@ -1,5 +1,6 @@
 # Spleen_volume
-Author: 
-Qian Yu
-Department of Radiology
-Zhongda Hospital, Southeast Univesity
+# The R script could be launched by deleting some R packages unnecessary
+# Author: 
+ Qian Yu
+ Department of Radiology
+ Zhongda Hospital, Southeast Univesity
