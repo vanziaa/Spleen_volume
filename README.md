@@ -3,9 +3,4 @@
 
 Spleen segmentation method could be found in aHVPG.
 
-# Author: 
- Qian Yu
- 
- Department of Radiology
- 
- Zhongda Hospital, Southeast Univesity
+
