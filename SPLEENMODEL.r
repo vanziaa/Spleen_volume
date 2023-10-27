@@ -108,7 +108,7 @@ sig_glm_summary2<-data.frame(coefficients=active.coefficients,name=sig_glm2)
 sig_glm_summary2
 
 cindex<-function(df,n,model){
-    dfx<-df[,n:32]
+    dfx<-df[,n:31]
     pre <- predict(model,as.matrix(dfx),s=c("lambda.1se"),type="link")
     dfy<- Surv(time=df$time,event=df$event)
     cdex <- rcorr.cens(pre,dfy)
